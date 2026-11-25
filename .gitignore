@@ -1,0 +1,14 @@
+# Credenciales reales de la base de datos. Nunca se publican.
+/config/config.php
+
+# Configuración personal de editores
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Registros
+*.log
